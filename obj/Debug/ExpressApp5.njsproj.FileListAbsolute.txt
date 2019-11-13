@@ -1,0 +1,2 @@
+C:\Users\Daehan\Downloads\lesson8\ExpressApp5\ExpressApp5\obj\Debug\ExpressApp5.njsprojAssemblyReference.cache
+C:\Users\Daehan\Downloads\lesson8\ExpressApp5\ExpressApp5\bin\Microsoft.NodejsTools.WebRole.dll
